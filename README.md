@@ -24,4 +24,14 @@ Access `localhost:8080`.
 
 Check more APIs under the `UserController`.
 
+### Check the auto refresh
+
+1. Regenerate the cosmosdb key in Azure Cosmosdb
+
+2. Copy the new cosmosdb key to Azure App Configuration
+
+i.e., change the value of the key `/application/azure.cosmosdb.key` in your Azure App Configuration store
+
+3. The application will automatically refresh the key
+
 
