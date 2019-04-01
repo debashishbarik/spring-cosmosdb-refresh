@@ -46,14 +46,21 @@
 		</dependency>
 
 		<dependency>
+			<groupId>com.microsoft.azure</groupId>
+			<artifactId>azure-keyvault-secrets-spring-boot-starter</artifactId>
+			<version>2.1.6</version>
+		</dependency>
+
+		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
 
+
 		<dependency>
-			<groupId>com.microsoft.azure</groupId>
-			<artifactId>spring-cloud-starter-azure-appconfiguration-config</artifactId>
-			<version>1.1.0.M3</version>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-context</artifactId>
+			<version>2.1.1.RELEASE</version>
 		</dependency>
 
 		<dependency>
