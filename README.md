@@ -2,6 +2,9 @@ This sample shows how to use [azure app configuration](https://docs.microsoft.co
 
 Refer [Spring Doc](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app) for more details.
 
+
+Go to branch [keyvault-refresh](https://github.com/sophiaso/spring-cosmosdb-refresh/tree/keyvault-refresh) to check how to refresh with key vault.
+
 ### Preparation
 
 1. Create Azure App Configuration store
