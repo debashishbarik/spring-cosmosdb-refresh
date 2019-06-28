@@ -1,4 +1,4 @@
-This sample shows how to use [azure app configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) to store cosmosdb configuration and refresh cosmosdb configuration automatically.
+This sample shows how to use keyvault to store cosmosdb configuration and refresh cosmosdb configuration automatically.
 
 Refer [Spring Doc](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app) for more details.
 
